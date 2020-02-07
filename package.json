@@ -1,0 +1,17 @@
+{
+  "name": "cli-cv",
+  "version": "1.0.0",
+  "description": "cli cv",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Jonathan Freed",
+  "license": "MIT",
+  "dependencies": {
+    "terminal-kit": "^1.32.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
